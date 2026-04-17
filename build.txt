@@ -1,0 +1,67 @@
+[  2%] Building CXX object CMakeFiles/enkiTS.dir/src/TaskScheduler.cpp.o
+[  4%] Building CXX object CMakeFiles/enkiTS.dir/src/TaskScheduler_c.cpp.o
+[  6%] Linking CXX static library libenkiTS.a
+[  6%] Built target enkiTS
+[  8%] Building CXX object CMakeFiles/ParallelSum.dir/example/ParallelSum.cpp.o
+[ 11%] Linking CXX executable ParallelSum
+[ 11%] Built target ParallelSum
+[ 13%] Building CXX object CMakeFiles/PinnedTask.dir/example/PinnedTask.cpp.o
+[ 15%] Linking CXX executable PinnedTask
+[ 15%] Built target PinnedTask
+[ 17%] Building CXX object CMakeFiles/LambdaTask.dir/example/LambdaTask.cpp.o
+[ 20%] Linking CXX executable LambdaTask
+[ 20%] Built target LambdaTask
+[ 22%] Building CXX object CMakeFiles/Priorities.dir/example/Priorities.cpp.o
+[ 24%] Linking CXX executable Priorities
+[ 24%] Built target Priorities
+[ 26%] Building CXX object CMakeFiles/TaskThroughput.dir/example/TaskThroughput.cpp.o
+[ 28%] Linking CXX executable TaskThroughput
+[ 28%] Built target TaskThroughput
+[ 31%] Building CXX object CMakeFiles/TaskOverhead.dir/example/TaskOverhead.cpp.o
+[ 33%] Linking CXX executable TaskOverhead
+[ 33%] Built target TaskOverhead
+[ 35%] Building CXX object CMakeFiles/TestWaitforTask.dir/example/TestWaitforTask.cpp.o
+[ 37%] Linking CXX executable TestWaitforTask
+[ 37%] Built target TestWaitforTask
+[ 40%] Building CXX object CMakeFiles/ExternalTaskThread.dir/example/ExternalTaskThread.cpp.o
+[ 42%] Linking CXX executable ExternalTaskThread
+[ 42%] Built target ExternalTaskThread
+[ 44%] Building CXX object CMakeFiles/CustomAllocator.dir/example/CustomAllocator.cpp.o
+[ 46%] Linking CXX executable CustomAllocator
+[ 46%] Built target CustomAllocator
+[ 48%] Building CXX object CMakeFiles/TestAll.dir/example/TestAll.cpp.o
+[ 51%] Linking CXX executable TestAll
+[ 51%] Built target TestAll
+[ 53%] Building CXX object CMakeFiles/Dependencies.dir/example/Dependencies.cpp.o
+[ 55%] Linking CXX executable Dependencies
+[ 55%] Built target Dependencies
+[ 57%] Building CXX object CMakeFiles/CompletionAction.dir/example/CompletionAction.cpp.o
+[ 60%] Linking CXX executable CompletionAction
+[ 60%] Built target CompletionAction
+[ 62%] Building CXX object CMakeFiles/WaitForNewPinnedTasks.dir/example/WaitForNewPinnedTasks.cpp.o
+[ 64%] Linking CXX executable WaitForNewPinnedTasks
+[ 64%] Built target WaitForNewPinnedTasks
+[ 66%] Building C object CMakeFiles/ParallelSum_c.dir/example/ParallelSum_c.c.o
+[ 68%] Linking CXX executable ParallelSum_c
+[ 68%] Built target ParallelSum_c
+[ 71%] Building C object CMakeFiles/PinnedTask_c.dir/example/PinnedTask_c.c.o
+[ 73%] Linking CXX executable PinnedTask_c
+[ 73%] Built target PinnedTask_c
+[ 75%] Building C object CMakeFiles/Priorities_c.dir/example/Priorities_c.c.o
+[ 77%] Linking CXX executable Priorities_c
+[ 77%] Built target Priorities_c
+[ 80%] Building C object CMakeFiles/ExternalTaskThread_c.dir/example/ExternalTaskThread_c.c.o
+[ 82%] Linking CXX executable ExternalTaskThread_c
+[ 82%] Built target ExternalTaskThread_c
+[ 84%] Building C object CMakeFiles/CustomAllocator_c.dir/example/CustomAllocator_c.c.o
+[ 86%] Linking CXX executable CustomAllocator_c
+[ 86%] Built target CustomAllocator_c
+[ 88%] Building C object CMakeFiles/Dependencies_c.dir/example/Dependencies_c.c.o
+[ 91%] Linking CXX executable Dependencies_c
+[ 91%] Built target Dependencies_c
+[ 93%] Building C object CMakeFiles/CompletionAction_c.dir/example/CompletionAction_c.c.o
+[ 95%] Linking CXX executable CompletionAction_c
+[ 95%] Built target CompletionAction_c
+[ 97%] Building C object CMakeFiles/WaitForNewPinnedTasks_c.dir/example/WaitForNewPinnedTasks_c.c.o
+[100%] Linking CXX executable WaitForNewPinnedTasks_c
+[100%] Built target WaitForNewPinnedTasks_c
